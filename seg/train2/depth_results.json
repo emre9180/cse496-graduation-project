@@ -1,0 +1,1327 @@
+[
+    {
+        "id": 0,
+        "mean_depth": 745.171875,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 1,
+        "mean_depth": 745.9558715820312,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 2,
+        "mean_depth": 724.3720703125,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 3,
+        "mean_depth": 734.4869384765625,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 4,
+        "mean_depth": 948.1572875976562,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 5,
+        "mean_depth": 941.4242553710938,
+        "file_name": "nisan50"
+    },
+    {
+        "id": 6,
+        "mean_depth": 838.203125,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 7,
+        "mean_depth": 827.4081420898438,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 8,
+        "mean_depth": 745.4655151367188,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 9,
+        "mean_depth": 752.4315795898438,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 10,
+        "mean_depth": 812.2540893554688,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 11,
+        "mean_depth": 811.9749755859375,
+        "file_name": "nisan53"
+    },
+    {
+        "id": 12,
+        "mean_depth": 835.1008911132812,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 13,
+        "mean_depth": 816.9066772460938,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 14,
+        "mean_depth": 720.51611328125,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 15,
+        "mean_depth": 726.5357055664062,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 16,
+        "mean_depth": 604.0457763671875,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 17,
+        "mean_depth": 599.46630859375,
+        "file_name": "nisan9"
+    },
+    {
+        "id": 18,
+        "mean_depth": 859.8070068359375,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 19,
+        "mean_depth": 842.7096557617188,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 20,
+        "mean_depth": 989.1538696289062,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 21,
+        "mean_depth": 945.772705078125,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 22,
+        "mean_depth": 819.7678833007812,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 23,
+        "mean_depth": 535.445068359375,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 24,
+        "mean_depth": 517.921875,
+        "file_name": "nisan35"
+    },
+    {
+        "id": 25,
+        "mean_depth": 744.9620361328125,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 26,
+        "mean_depth": 745.01318359375,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 27,
+        "mean_depth": 703.683837890625,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 28,
+        "mean_depth": 714.9722290039062,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 29,
+        "mean_depth": 885.4705810546875,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 30,
+        "mean_depth": 895.4483032226562,
+        "file_name": "nisan8"
+    },
+    {
+        "id": 31,
+        "mean_depth": 738.8828125,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 32,
+        "mean_depth": 730.0782470703125,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 33,
+        "mean_depth": 645.7816162109375,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 34,
+        "mean_depth": 658.719482421875,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 35,
+        "mean_depth": 774.5,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 36,
+        "mean_depth": 572.6363525390625,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 37,
+        "mean_depth": 578.1428833007812,
+        "file_name": "nisan10"
+    },
+    {
+        "id": 38,
+        "mean_depth": 514.1788330078125,
+        "file_name": "nisan15"
+    },
+    {
+        "id": 39,
+        "mean_depth": 762.6666870117188,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 40,
+        "mean_depth": 754.90625,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 41,
+        "mean_depth": 657.1738891601562,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 42,
+        "mean_depth": 671.1397094726562,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 43,
+        "mean_depth": 686.2980346679688,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 44,
+        "mean_depth": 538.739990234375,
+        "file_name": "nisan46"
+    },
+    {
+        "id": 45,
+        "mean_depth": 846.6071166992188,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 46,
+        "mean_depth": 831.106689453125,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 47,
+        "mean_depth": 941.5454711914062,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 48,
+        "mean_depth": 922.3076782226562,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 49,
+        "mean_depth": 855.1795043945312,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 50,
+        "mean_depth": 521.9185791015625,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 51,
+        "mean_depth": 505.8399963378906,
+        "file_name": "nisan33"
+    },
+    {
+        "id": 52,
+        "mean_depth": 945.586181640625,
+        "file_name": "nisan28"
+    },
+    {
+        "id": 53,
+        "mean_depth": 942.375,
+        "file_name": "nisan28"
+    },
+    {
+        "id": 54,
+        "mean_depth": 524.8604736328125,
+        "file_name": "nisan28"
+    },
+    {
+        "id": 55,
+        "mean_depth": 836.1559448242188,
+        "file_name": "nisan28"
+    },
+    {
+        "id": 56,
+        "mean_depth": 822.2913208007812,
+        "file_name": "nisan28"
+    },
+    {
+        "id": 57,
+        "mean_depth": 839.625,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 58,
+        "mean_depth": 828.1838989257812,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 59,
+        "mean_depth": 742.0430297851562,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 60,
+        "mean_depth": 755.0472412109375,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 61,
+        "mean_depth": 780.0302734375,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 62,
+        "mean_depth": 778.88232421875,
+        "file_name": "nisan55"
+    },
+    {
+        "id": 63,
+        "mean_depth": 848.3671875,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 64,
+        "mean_depth": 826.8658447265625,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 65,
+        "mean_depth": 719.5684204101562,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 66,
+        "mean_depth": 727.0485229492188,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 67,
+        "mean_depth": 650.60302734375,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 68,
+        "mean_depth": 642.74560546875,
+        "file_name": "nisan43"
+    },
+    {
+        "id": 69,
+        "mean_depth": 750.2557983398438,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 70,
+        "mean_depth": 737.2056274414062,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 71,
+        "mean_depth": 642.7985229492188,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 72,
+        "mean_depth": 653.5376586914062,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 73,
+        "mean_depth": 637.4017944335938,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 74,
+        "mean_depth": 636.5172119140625,
+        "file_name": "nisan20"
+    },
+    {
+        "id": 75,
+        "mean_depth": 749.6857299804688,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 76,
+        "mean_depth": 738.51513671875,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 77,
+        "mean_depth": 647.2588500976562,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 78,
+        "mean_depth": 659.844970703125,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 79,
+        "mean_depth": 649.4444580078125,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 80,
+        "mean_depth": 632.0,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 81,
+        "mean_depth": 631.0610961914062,
+        "file_name": "nisan21"
+    },
+    {
+        "id": 82,
+        "mean_depth": 765.1965942382812,
+        "file_name": "nisan31"
+    },
+    {
+        "id": 83,
+        "mean_depth": 756.11474609375,
+        "file_name": "nisan31"
+    },
+    {
+        "id": 84,
+        "mean_depth": 687.4229125976562,
+        "file_name": "nisan31"
+    },
+    {
+        "id": 85,
+        "mean_depth": 661.3209838867188,
+        "file_name": "nisan31"
+    },
+    {
+        "id": 86,
+        "mean_depth": 1123.48486328125,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 87,
+        "mean_depth": 1112.6666259765625,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 88,
+        "mean_depth": 1016.5999755859375,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 89,
+        "mean_depth": 1020.1346435546875,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 90,
+        "mean_depth": 927.423095703125,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 91,
+        "mean_depth": 1006.7125244140625,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 92,
+        "mean_depth": 998.1129150390625,
+        "file_name": "nisan66"
+    },
+    {
+        "id": 93,
+        "mean_depth": 871.828125,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 94,
+        "mean_depth": 851.0,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 95,
+        "mean_depth": 745.0853881835938,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 96,
+        "mean_depth": 742.0555419921875,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 97,
+        "mean_depth": 717.6666870117188,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 98,
+        "mean_depth": 553.2155151367188,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 99,
+        "mean_depth": 541.2060546875,
+        "file_name": "nisan42"
+    },
+    {
+        "id": 100,
+        "mean_depth": 630.6380615234375,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 101,
+        "mean_depth": 639.8636474609375,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 102,
+        "mean_depth": 610.0855712890625,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 103,
+        "mean_depth": 630.1221923828125,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 104,
+        "mean_depth": 823.4854125976562,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 105,
+        "mean_depth": 841.1969604492188,
+        "file_name": "nisan6"
+    },
+    {
+        "id": 106,
+        "mean_depth": 797.0908813476562,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 107,
+        "mean_depth": 795.5203247070312,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 108,
+        "mean_depth": 730.3566284179688,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 109,
+        "mean_depth": 743.6985473632812,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 110,
+        "mean_depth": 939.6097412109375,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 111,
+        "mean_depth": 656.29248046875,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 112,
+        "mean_depth": 663.4971313476562,
+        "file_name": "nisan11"
+    },
+    {
+        "id": 113,
+        "mean_depth": 1294.4285888671875,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 114,
+        "mean_depth": 1271.800048828125,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 115,
+        "mean_depth": 1153.6666259765625,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 116,
+        "mean_depth": 1146.6363525390625,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 117,
+        "mean_depth": 1090.3333740234375,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 118,
+        "mean_depth": 947.0,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 119,
+        "mean_depth": 926.9122924804688,
+        "file_name": "nisan40"
+    },
+    {
+        "id": 120,
+        "mean_depth": 671.5804443359375,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 121,
+        "mean_depth": 672.14794921875,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 122,
+        "mean_depth": 608.9238891601562,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 123,
+        "mean_depth": 625.2660522460938,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 124,
+        "mean_depth": 717.279052734375,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 125,
+        "mean_depth": 728.8919067382812,
+        "file_name": "nisan56"
+    },
+    {
+        "id": 126,
+        "mean_depth": 849.0,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 127,
+        "mean_depth": 834.9053955078125,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 128,
+        "mean_depth": 721.731689453125,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 129,
+        "mean_depth": 722.4963989257812,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 130,
+        "mean_depth": 647.042236328125,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 131,
+        "mean_depth": 642.2044067382812,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 132,
+        "mean_depth": 624.9166870117188,
+        "file_name": "nisan16"
+    },
+    {
+        "id": 133,
+        "mean_depth": 764.4957885742188,
+        "file_name": "nisan32"
+    },
+    {
+        "id": 134,
+        "mean_depth": 755.3207397460938,
+        "file_name": "nisan32"
+    },
+    {
+        "id": 135,
+        "mean_depth": 687.9879150390625,
+        "file_name": "nisan32"
+    },
+    {
+        "id": 136,
+        "mean_depth": 661.8102416992188,
+        "file_name": "nisan32"
+    },
+    {
+        "id": 137,
+        "mean_depth": 1286.1578369140625,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 138,
+        "mean_depth": 1269.6666259765625,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 139,
+        "mean_depth": 1154.51611328125,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 140,
+        "mean_depth": 1142.0,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 141,
+        "mean_depth": 1085.15625,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 142,
+        "mean_depth": 948.2999877929688,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 143,
+        "mean_depth": 927.8599853515625,
+        "file_name": "nisan39"
+    },
+    {
+        "id": 144,
+        "mean_depth": 868.375,
+        "file_name": "nisan30"
+    },
+    {
+        "id": 145,
+        "mean_depth": 874.0735473632812,
+        "file_name": "nisan30"
+    },
+    {
+        "id": 146,
+        "mean_depth": 0.0,
+        "file_name": "nisan30"
+    },
+    {
+        "id": 147,
+        "mean_depth": 824.7123413085938,
+        "file_name": "nisan30"
+    },
+    {
+        "id": 148,
+        "mean_depth": 813.4483032226562,
+        "file_name": "nisan30"
+    },
+    {
+        "id": 149,
+        "mean_depth": 787.2816772460938,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 150,
+        "mean_depth": 775.37255859375,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 151,
+        "mean_depth": 683.5263061523438,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 152,
+        "mean_depth": 693.8161010742188,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 153,
+        "mean_depth": 670.984375,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 154,
+        "mean_depth": 667.1707153320312,
+        "file_name": "nisan3"
+    },
+    {
+        "id": 155,
+        "mean_depth": 1027.3333740234375,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 156,
+        "mean_depth": 1021.4634399414062,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 157,
+        "mean_depth": 961.5244140625,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 158,
+        "mean_depth": 968.7313232421875,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 159,
+        "mean_depth": 1172.4761962890625,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 160,
+        "mean_depth": 844.0916748046875,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 161,
+        "mean_depth": 844.7283935546875,
+        "file_name": "nisan13"
+    },
+    {
+        "id": 162,
+        "mean_depth": 1124.8428955078125,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 163,
+        "mean_depth": 1111.2093505859375,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 164,
+        "mean_depth": 1015.3255615234375,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 165,
+        "mean_depth": 1020.3333129882812,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 166,
+        "mean_depth": 925.5625,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 167,
+        "mean_depth": 1008.02197265625,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 168,
+        "mean_depth": 995.4067993164062,
+        "file_name": "nisan67"
+    },
+    {
+        "id": 169,
+        "mean_depth": 718.6666870117188,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 170,
+        "mean_depth": 723.4807739257812,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 171,
+        "mean_depth": 614.9302368164062,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 172,
+        "mean_depth": 622.84326171875,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 173,
+        "mean_depth": 566.0,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 174,
+        "mean_depth": 597.5322875976562,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 175,
+        "mean_depth": 592.5845336914062,
+        "file_name": "nisan18"
+    },
+    {
+        "id": 176,
+        "mean_depth": 826.295166015625,
+        "file_name": "nisan26"
+    },
+    {
+        "id": 177,
+        "mean_depth": 812.8571166992188,
+        "file_name": "nisan26"
+    },
+    {
+        "id": 178,
+        "mean_depth": 0.0,
+        "file_name": "nisan26"
+    },
+    {
+        "id": 179,
+        "mean_depth": 821.0620727539062,
+        "file_name": "nisan26"
+    },
+    {
+        "id": 180,
+        "mean_depth": 814.653076171875,
+        "file_name": "nisan26"
+    },
+    {
+        "id": 181,
+        "mean_depth": 844.8515014648438,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 182,
+        "mean_depth": 822.9397583007812,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 183,
+        "mean_depth": 717.3265380859375,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 184,
+        "mean_depth": 720.6836547851562,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 185,
+        "mean_depth": 660.2344970703125,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 186,
+        "mean_depth": 651.950439453125,
+        "file_name": "nisan45"
+    },
+    {
+        "id": 187,
+        "mean_depth": 732.01904296875,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 188,
+        "mean_depth": 737.6788940429688,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 189,
+        "mean_depth": 695.9925537109375,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 190,
+        "mean_depth": 711.95947265625,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 191,
+        "mean_depth": 892.2266845703125,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 192,
+        "mean_depth": 894.25,
+        "file_name": "nisan48"
+    },
+    {
+        "id": 193,
+        "mean_depth": 836.9708251953125,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 194,
+        "mean_depth": 824.3146362304688,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 195,
+        "mean_depth": 742.7380981445312,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 196,
+        "mean_depth": 751.6470336914062,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 197,
+        "mean_depth": 812.4384765625,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 198,
+        "mean_depth": 809.974365234375,
+        "file_name": "nisan54"
+    },
+    {
+        "id": 199,
+        "mean_depth": 1048.387451171875,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 200,
+        "mean_depth": 1029.0,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 201,
+        "mean_depth": 931.1519165039062,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 202,
+        "mean_depth": 938.2111206054688,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 203,
+        "mean_depth": 993.4615478515625,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 204,
+        "mean_depth": 833.686767578125,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 205,
+        "mean_depth": 829.3521118164062,
+        "file_name": "nisan60"
+    },
+    {
+        "id": 206,
+        "mean_depth": 1065.54833984375,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 207,
+        "mean_depth": 1063.482177734375,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 208,
+        "mean_depth": 978.557373046875,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 209,
+        "mean_depth": 991.4754028320312,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 210,
+        "mean_depth": 949.5833129882812,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 211,
+        "mean_depth": 1041.515625,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 212,
+        "mean_depth": 1046.442626953125,
+        "file_name": "nisan64"
+    },
+    {
+        "id": 213,
+        "mean_depth": 1150.3333740234375,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 214,
+        "mean_depth": 1116.239990234375,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 215,
+        "mean_depth": 1017.4375,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 216,
+        "mean_depth": 1015.125,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 217,
+        "mean_depth": 992.15625,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 218,
+        "mean_depth": 826.8928833007812,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 219,
+        "mean_depth": 810.4716796875,
+        "file_name": "nisan41"
+    },
+    {
+        "id": 220,
+        "mean_depth": 941.9560546875,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 221,
+        "mean_depth": 933.6701049804688,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 222,
+        "mean_depth": 857.9734497070312,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 223,
+        "mean_depth": 868.5579223632812,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 224,
+        "mean_depth": 1017.272705078125,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 225,
+        "mean_depth": 791.8055419921875,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 226,
+        "mean_depth": 794.038818359375,
+        "file_name": "nisan12"
+    },
+    {
+        "id": 227,
+        "mean_depth": 826.7678833007812,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 228,
+        "mean_depth": 804.2535400390625,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 229,
+        "mean_depth": 700.7324829101562,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 230,
+        "mean_depth": 703.8043212890625,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 231,
+        "mean_depth": 631.5606079101562,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 232,
+        "mean_depth": 635.90869140625,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 233,
+        "mean_depth": 622.8033447265625,
+        "file_name": "nisan17"
+    },
+    {
+        "id": 234,
+        "mean_depth": 898.076904296875,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 235,
+        "mean_depth": 770.2886352539062,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 236,
+        "mean_depth": 770.3333129882812,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 237,
+        "mean_depth": 722.611083984375,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 238,
+        "mean_depth": 644.0904541015625,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 239,
+        "mean_depth": 625.115966796875,
+        "file_name": "nisan2"
+    },
+    {
+        "id": 240,
+        "mean_depth": 855.6071166992188,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 241,
+        "mean_depth": 839.6206665039062,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 242,
+        "mean_depth": 743.7872314453125,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 243,
+        "mean_depth": 752.4074096679688,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 244,
+        "mean_depth": 728.6732788085938,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 245,
+        "mean_depth": 725.521728515625,
+        "file_name": "nisan4"
+    },
+    {
+        "id": 246,
+        "mean_depth": 833.5,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 247,
+        "mean_depth": 817.058837890625,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 248,
+        "mean_depth": 977.5357055664062,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 249,
+        "mean_depth": 936.4117431640625,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 250,
+        "mean_depth": 532.8373413085938,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 251,
+        "mean_depth": 513.0602416992188,
+        "file_name": "nisan37"
+    },
+    {
+        "id": 252,
+        "mean_depth": 1012.756103515625,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 253,
+        "mean_depth": 999.5633544921875,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 254,
+        "mean_depth": 907.1300048828125,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 255,
+        "mean_depth": 913.8253784179688,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 256,
+        "mean_depth": 972.3513793945312,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 257,
+        "mean_depth": 844.3720703125,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 258,
+        "mean_depth": 846.1410522460938,
+        "file_name": "nisan59"
+    },
+    {
+        "id": 259,
+        "mean_depth": 843.53125,
+        "file_name": "nisan44"
+    },
+    {
+        "id": 260,
+        "mean_depth": 825.24072265625,
+        "file_name": "nisan44"
+    },
+    {
+        "id": 261,
+        "mean_depth": 716.1351318359375,
+        "file_name": "nisan44"
+    },
+    {
+        "id": 262,
+        "mean_depth": 720.120849609375,
+        "file_name": "nisan44"
+    },
+    {
+        "id": 263,
+        "mean_depth": 645.6356201171875,
+        "file_name": "nisan44"
+    },
+    {
+        "id": 264,
+        "mean_depth": 638.6752319335938,
+        "file_name": "nisan44"
+    }
+]

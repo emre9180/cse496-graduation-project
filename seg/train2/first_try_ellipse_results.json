@@ -1,0 +1,971 @@
+[
+    {
+        "id": 0,
+        "major_axis_length": 58.21798324584961,
+        "minor_axis_length": 51.89908218383789,
+        "mean_depth": 769.5357055664062,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 1,
+        "major_axis_length": 47.12932205200195,
+        "minor_axis_length": 37.038238525390625,
+        "mean_depth": 782.279052734375,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 3,
+        "major_axis_length": 58.368553161621094,
+        "minor_axis_length": 56.989139556884766,
+        "mean_depth": 623.6995239257812,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 4,
+        "major_axis_length": 61.57979965209961,
+        "minor_axis_length": 58.79023742675781,
+        "mean_depth": 607.3681030273438,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 5,
+        "major_axis_length": 57.615570068359375,
+        "minor_axis_length": 45.969947814941406,
+        "mean_depth": 724.01458740234380,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 6,
+        "major_axis_length": 56.33848190307617,
+        "minor_axis_length": 42.40091323852539,
+        "mean_depth": 706.73681640625,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 7,
+        "major_axis_length": 64.58137512207031,
+        "minor_axis_length": 51.57358169555664,
+        "mean_depth": 543.3383178710938,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 8,
+        "major_axis_length": 68.34013366699219,
+        "minor_axis_length": 59.17132568359375,
+        "mean_depth": 455.1024169921875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 9,
+        "major_axis_length": 65.47208404541016,
+        "minor_axis_length": 42.092796325683594,
+        "mean_depth": 672.2841796875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 12,
+        "major_axis_length": 75.93983459472656,
+        "minor_axis_length": 61.0461311340332,
+        "mean_depth": 619.802978515625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 13,
+        "major_axis_length": 53.93226623535156,
+        "minor_axis_length": 45.64722442626953,
+        "mean_depth": 650.4935913085938,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 15,
+        "major_axis_length": 43.37333297729492,
+        "minor_axis_length": 33.76570510864258,
+        "mean_depth": 877.7788696289062,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 16,
+        "major_axis_length": 46.28095245361328,
+        "minor_axis_length": 34.39511489868164,
+        "mean_depth": 845.8837280273438,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 17,
+        "major_axis_length": 58.0238037109375,
+        "minor_axis_length": 50.6198616027832,
+        "mean_depth": 609.6460571289062,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 18,
+        "major_axis_length": 55.990760803222656,
+        "minor_axis_length": 41.30902862548828,
+        "mean_depth": 646.9006958007812,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 19,
+        "major_axis_length": 70.60247039794922,
+        "minor_axis_length": 51.20917510986328,
+        "mean_depth": 560.4297485351562,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 20,
+        "major_axis_length": 39.10059356689453,
+        "minor_axis_length": 34.03428649902344,
+        "mean_depth": 1040.5689697265625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 21,
+        "major_axis_length": 36.632713317871094,
+        "minor_axis_length": 29.50628662109375,
+        "mean_depth": 1043.2884521484375,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 22,
+        "major_axis_length": 47.10329818725586,
+        "minor_axis_length": 32.827484130859375,
+        "mean_depth": 854.402587890625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 23,
+        "major_axis_length": 44.28857421875,
+        "minor_axis_length": 36.28496551513672,
+        "mean_depth": 834.732421875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 25,
+        "major_axis_length": 63.5064697265625,
+        "minor_axis_length": 50.99287033081055,
+        "mean_depth": 542.3035888671875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 26,
+        "major_axis_length": 77.04515075683594,
+        "minor_axis_length": 69.71820068359375,
+        "mean_depth": 529.255615234375,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 30,
+        "major_axis_length": 83.61177062988281,
+        "minor_axis_length": 55.570858001708984,
+        "mean_depth": 568.4932250976562,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 31,
+        "major_axis_length": 72.59839630126953,
+        "minor_axis_length": 62.542850494384766,
+        "mean_depth": 576.4705810546875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+
+    {
+        "id": 33,
+        "major_axis_length": 56.326744079589844,
+        "minor_axis_length": 42.53112030029297,
+        "mean_depth": 619.4400024414062,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 34,
+        "major_axis_length": 33.06159973144531,
+        "minor_axis_length": 23.5668888092041,
+        "mean_depth": 1188.811279296875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 35,
+        "major_axis_length": 30.848201751708984,
+        "minor_axis_length": 26.465063095092773,
+        "mean_depth": 1395.824951171875,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 36,
+        "major_axis_length": 25.847776412963867,
+        "minor_axis_length": 20.40138053894043,
+        "mean_depth": 1408.75,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 37,
+        "major_axis_length": 32.42836380004883,
+        "minor_axis_length": 26.074031829833984,
+        "mean_depth": 1186.0540771484375,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 38,
+        "major_axis_length": 28.23304557800293,
+        "minor_axis_length": 24.92188262939453,
+        "mean_depth": 1193.2894287109375,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 39,
+        "major_axis_length": 25.966835021972656,
+        "minor_axis_length": 21.387439727783203,
+        "mean_depth": 1210.642822265625,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 41,
+        "major_axis_length": 45.55618667602539,
+        "minor_axis_length": 34.044044494628906,
+        "mean_depth": 874.5607299804688,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 42,
+        "major_axis_length": 47.45507049560547,
+        "minor_axis_length": 32.72265625,
+        "mean_depth": 843.4000244140625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 43,
+        "major_axis_length": 58.948089599609375,
+        "minor_axis_length": 42.96928405761719,
+        "mean_depth": 648.6416015625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 44,
+        "major_axis_length": 55.381736755371094,
+        "minor_axis_length": 52.90754318237305,
+        "mean_depth": 625.1588134765625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 45,
+        "major_axis_length": 54.96977233886719,
+        "minor_axis_length": 36.88824462890625,
+        "mean_depth": 810.83654785156250,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 46,
+        "major_axis_length": 33.95051956176758,
+        "minor_axis_length": 30.623750686645508,
+        "mean_depth": 1201.720947265625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 47,
+        "major_axis_length": 32.081298828125,
+        "minor_axis_length": 25.509613037109375,
+        "mean_depth": 1208.351318359375,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 48,
+        "major_axis_length": 37.961029052734375,
+        "minor_axis_length": 28.148944854736328,
+        "mean_depth": 991.1481323242188,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 49,
+        "major_axis_length": 38.9187126159668,
+        "minor_axis_length": 33.19950866699219,
+        "mean_depth": 966.1333618164062,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 50,
+        "major_axis_length": 34.43321228027344,
+        "minor_axis_length": 30.984739303588867,
+        "mean_depth": 1180.5909423828125,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 51,
+        "major_axis_length": 69.07177734375,
+        "minor_axis_length": 56.27406311035156,
+        "mean_depth": 675.34228515625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 52,
+        "major_axis_length": 44.2129020690918,
+        "minor_axis_length": 37.89448928833008,
+        "mean_depth": 713.2739868164062,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 53,
+        "major_axis_length": 53.99334716796875,
+        "minor_axis_length": 41.02852249145508,
+        "mean_depth": 657.2965087890625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 54,
+        "major_axis_length": 62.566368103027344,
+        "minor_axis_length": 54.35947799682617,
+        "mean_depth": 649.7616577148438,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 55,
+        "major_axis_length": 48.82327651977539,
+        "minor_axis_length": 35.41187286376953,
+        "mean_depth": 911.2466430664062,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 56,
+        "major_axis_length": 40.062767028808594,
+        "minor_axis_length": 36.091102600097656,
+        "mean_depth": 991.1481323242188,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 57,
+        "major_axis_length": 64.4157943725586,
+        "minor_axis_length": 41.21304702758789,
+        "mean_depth": 716.0733642578125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 60,
+        "major_axis_length": 89.38509368896484,
+        "minor_axis_length": 72.18341827392578,
+        "mean_depth": 495.1455078125,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 61,
+        "major_axis_length": 56.437767028808594,
+        "minor_axis_length": 43.30514144897461,
+        "mean_depth": 565.4888916015625,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 62,
+        "major_axis_length": 87.08989715576172,
+        "minor_axis_length": 68.51102447509766,
+        "mean_depth": 569.640625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 63,
+        "major_axis_length": 55.92789077758789,
+        "minor_axis_length": 46.46617126464844,
+        "mean_depth": 559.9285888671875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 64,
+        "major_axis_length": 72.34139251708984,
+        "minor_axis_length": 58.68941879272461,
+        "mean_depth": 525.4610595703125,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 65,
+        "major_axis_length": 59.98213577270508,
+        "minor_axis_length": 51.9713134765625,
+        "mean_depth": 566.3779296875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 66,
+        "major_axis_length": 46.759742736816406,
+        "minor_axis_length": 33.499263763427734,
+        "mean_depth": 878.2120971679688,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 67,
+        "major_axis_length": 51.65330123901367,
+        "minor_axis_length": 47.750118255615234,
+        "mean_depth": 684.8378295898438,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 69,
+        "major_axis_length": 57.6108512878418,
+        "minor_axis_length": 50.57185745239258,
+        "mean_depth": 738.5346069335938,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 70,
+        "major_axis_length": 50.141109466552734,
+        "minor_axis_length": 42.39652633666992,
+        "mean_depth": 745.2000122070312,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 71,
+        "major_axis_length": 68.1572265625,
+        "minor_axis_length": 59.08523178100586,
+        "mean_depth": 499.6473388671875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 72,
+        "major_axis_length": 72.02540588378906,
+        "minor_axis_length": 63.86102294921875,
+        "mean_depth": 479.6071472167969,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 73,
+        "major_axis_length": 75.41144561767578,
+        "minor_axis_length": 43.26992416381836,
+        "mean_depth": 651.4012451171875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 74,
+        "major_axis_length": 57.99619674682617,
+        "minor_axis_length": 55.73564529418945,
+        "mean_depth": 595.1399536132812,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 75,
+        "major_axis_length": 62.65578842163086,
+        "minor_axis_length": 49.71088790893555,
+        "mean_depth": 594.9666748046875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 76,
+        "major_axis_length": 56.18453598022461,
+        "minor_axis_length": 52.619083404541016,
+        "mean_depth": 758.0482788085938,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 77,
+        "major_axis_length": 44.99787902832031,
+        "minor_axis_length": 36.295475006103516,
+        "mean_depth": 774.6094970703125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 78,
+        "major_axis_length": 72.98170471191406,
+        "minor_axis_length": 53.54435729980469,
+        "mean_depth": 540.3595581054688,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 79,
+        "major_axis_length": 49.69779586791992,
+        "minor_axis_length": 36.459957122802734,
+        "mean_depth": 820.3262939453125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 80,
+        "major_axis_length": 52.363014221191406,
+        "minor_axis_length": 50.077537536621094,
+        "mean_depth": 806.2796630859375,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 81,
+        "major_axis_length": 67.66165924072266,
+        "minor_axis_length": 44.98936080932617,
+        "mean_depth": 621.2048950195312,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 82,
+        "major_axis_length": 63.95652389526367,
+        "minor_axis_length": 56.55667495727539,
+        "mean_depth": 610.0177612304688,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 83,
+        "major_axis_length": 58.795326232910156,
+        "minor_axis_length": 38.03710174560547,
+        "mean_depth": 742.5724487304688,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 84,
+        "major_axis_length": 59.82121658325195,
+        "minor_axis_length": 50.0064811706543,
+        "mean_depth": 677.313720703125,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 85,
+        "major_axis_length": 51.720787048339844,
+        "minor_axis_length": 44.64498519897461,
+        "mean_depth": 705.8989868164062,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 86,
+        "major_axis_length": 66.68049621582031,
+        "minor_axis_length": 59.26701736450195,
+        "mean_depth": 521.3052368164062,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 87,
+        "major_axis_length": 66.44389343261719,
+        "minor_axis_length": 53.299869537353516,
+        "mean_depth": 533.330078125,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 89,
+        "major_axis_length": 43.42115020751953,
+        "minor_axis_length": 39.72953796386719,
+        "mean_depth": 876.1666870117188,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 90,
+        "major_axis_length": 43.613529205322266,
+        "minor_axis_length": 32.956947326660156,
+        "mean_depth": 878.1630249023438,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 91,
+        "major_axis_length": 55.143104553222656,
+        "minor_axis_length": 39.526756286621094,
+        "mean_depth": 676.6578979492188,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 92,
+        "major_axis_length": 55.465309143066406,
+        "minor_axis_length": 50.09052658081055,
+        "mean_depth": 666.6387329101562,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 93,
+        "major_axis_length": 47.136661529541016,
+        "minor_axis_length": 39.43117141723633,
+        "mean_depth": 802.1551513671875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 94,
+        "major_axis_length": 54.04903793334961,
+        "minor_axis_length": 51.56076431274414,
+        "mean_depth": 789.582763671875,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 95,
+        "major_axis_length": 62.65458297729492,
+        "minor_axis_length": 48.58637619018555,
+        "mean_depth": 641.0447998046875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 96,
+        "major_axis_length": 58.11469650268555,
+        "minor_axis_length": 54.876094818115234,
+        "mean_depth": 634.420166015625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 97,
+        "major_axis_length": 69.17630004882812,
+        "minor_axis_length": 53.29787826538086,
+        "mean_depth": 620.2636108398438,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 98,
+        "major_axis_length": 80.69268798828125,
+        "minor_axis_length": 63.44184112548828,
+        "mean_depth": 610.4586181640625,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 99,
+        "major_axis_length": 52.582557678222656,
+        "minor_axis_length": 33.18611526489258,
+        "mean_depth": 647.280029296875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 100,
+        "major_axis_length": 72.26616668701172,
+        "minor_axis_length": 56.5065803527832,
+        "mean_depth": 514.4585571289062,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 101,
+        "major_axis_length": 64.46953582763672,
+        "minor_axis_length": 59.41504669189453,
+        "mean_depth": 515.248779296875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 102,
+        "major_axis_length": 49.70972442626953,
+        "minor_axis_length": 34.70697784423828,
+        "mean_depth": 800.3793334960938,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 103,
+        "major_axis_length": 74.43621063232422,
+        "minor_axis_length": 60.349552154541016,
+        "mean_depth": 622.9451293945312,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 104,
+        "major_axis_length": 46.550926208496094,
+        "minor_axis_length": 39.57323455810547,
+        "mean_depth": 675.6153564453125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 105,
+        "major_axis_length": 45.50391387939453,
+        "minor_axis_length": 31.936176300048828,
+        "mean_depth": 849.6049194335938,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 106,
+        "major_axis_length": 70.39012145996094,
+        "minor_axis_length": 57.57353591918945,
+        "mean_depth": 549.7811279296875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 107,
+        "major_axis_length": 56.71094512939453,
+        "minor_axis_length": 50.20820999145508,
+        "mean_depth": 577.65576171875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 108,
+        "major_axis_length": 63.8587646484375,
+        "minor_axis_length": 54.217777252197266,
+        "mean_depth": 718.078125,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 109,
+        "major_axis_length": 52.81267166137695,
+        "minor_axis_length": 39.2974739074707,
+        "mean_depth": 737.1776123046875,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 110,
+        "major_axis_length": 70.64270782470703,
+        "minor_axis_length": 50.89356994628906,
+        "mean_depth": 592.0144653320312,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 111,
+        "major_axis_length": 66.33448028564453,
+        "minor_axis_length": 51.030357360839844,
+        "mean_depth": 561.5565795898438,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 112,
+        "major_axis_length": 64.47554016113281,
+        "minor_axis_length": 57.69683074951172,
+        "mean_depth": 557.7372436523438,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 113,
+        "major_axis_length": 46.66572189331055,
+        "minor_axis_length": 44.193416595458984,
+        "mean_depth": 716.3243408203125,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 116,
+        "major_axis_length": 52.0573616027832,
+        "minor_axis_length": 46.519744873046875,
+        "mean_depth": 680.3653564453125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 117,
+        "major_axis_length": 65.85018920898438,
+        "minor_axis_length": 55.28718948364258,
+        "mean_depth": 664.0443115234375,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 118,
+        "major_axis_length": 91.12138366699219,
+        "minor_axis_length": 56.975948333740234,
+        "mean_depth": 512.638916015625,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 121,
+        "major_axis_length": 77.18669891357422,
+        "minor_axis_length": 65.93045043945312,
+        "mean_depth": 569.2205200195312,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 122,
+        "major_axis_length": 56.40091323852539,
+        "minor_axis_length": 52.95425796508789,
+        "mean_depth": 609.2532348632812,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 123,
+        "major_axis_length": 59.24559020996094,
+        "minor_axis_length": 39.207916259765625,
+        "mean_depth": 802.4580688476562,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 124,
+        "major_axis_length": 58.25338363647461,
+        "minor_axis_length": 47.973148345947266,
+        "mean_depth": 581.9091186523438,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 125,
+        "major_axis_length": 85.02677154541016,
+        "minor_axis_length": 55.36278533935547,
+        "mean_depth": 579.8543701171875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 126,
+        "major_axis_length": 72.4532699584961,
+        "minor_axis_length": 62.56741714477539,
+        "mean_depth": 584.3109741210938,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 130,
+        "major_axis_length": 58.244876861572266,
+        "minor_axis_length": 48.62882614135742,
+        "mean_depth": 540.1036376953125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 131,
+        "major_axis_length": 82.26678466796875,
+        "minor_axis_length": 67.74027252197266,
+        "mean_depth": 542.7462158203125,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 132,
+        "major_axis_length": 49.053611755371094,
+        "minor_axis_length": 36.188499450683594,
+        "mean_depth": 816.7333374023438,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 133,
+        "major_axis_length": 33.80461120605469,
+        "minor_axis_length": 30.630155563354492,
+        "mean_depth": 1195.6341552734375,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 134,
+        "major_axis_length": 32.315921783447266,
+        "minor_axis_length": 23.90050506591797,
+        "mean_depth": 1180.5909423828125,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 135,
+        "major_axis_length": 37.56908416748047,
+        "minor_axis_length": 33.907894134521484,
+        "mean_depth": 969.219482421875,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 136,
+        "major_axis_length": 37.86896896362305,
+        "minor_axis_length": 25.6036319732666,
+        "mean_depth": 986.0116577148438,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 137,
+        "major_axis_length": 32.27448272705078,
+        "minor_axis_length": 31.66276741027832,
+        "mean_depth": 949.5147094726562,
+        "real_major_axis_length": 2.8,
+        "real_minor_axis_length": 2.6
+    },
+    {
+        "id": 139,
+        "major_axis_length": 56.019901275634766,
+        "minor_axis_length": 52.927406311035156,
+        "mean_depth": 740.0901489257812,
+        "real_major_axis_length": 4.0,
+        "real_minor_axis_length": 3.2
+    },
+    {
+        "id": 140,
+        "major_axis_length": 48.983489990234375,
+        "minor_axis_length": 42.18183517456055,
+        "mean_depth": 750.8571166992188,
+        "real_major_axis_length": 3.3,
+        "real_minor_axis_length": 2.7
+    },
+    {
+        "id": 141,
+        "major_axis_length": 68.27717590332031,
+        "minor_axis_length": 62.66727828979492,
+        "mean_depth": 501.20269775390625,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 3.4
+    },
+    {
+        "id": 142,
+        "major_axis_length": 66.4242172241211,
+        "minor_axis_length": 54.993247985839844,
+        "mean_depth": 521.3048706054688,
+        "real_major_axis_length": 3.2,
+        "real_minor_axis_length": 2.6
+    }
+]

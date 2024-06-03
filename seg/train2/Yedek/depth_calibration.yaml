@@ -1,0 +1,16 @@
+calibration_time: "Thu Dec  4 10:31:27 2014"
+image_width: 1024
+image_height: 848
+board_width: 6
+board_height: 9
+square_size_: 2.5000000372529030e-02
+flags: 0
+camera_matrix:
+   rows: 3
+   cols: 3
+   data: [711.62970910343665, 0.0, 509.90097114150876, 0.0, 710.94384711878797, 403.60735428585957, 0.0, 0.0, 1.0]
+distortion_coefficients:
+   rows: 1
+   cols: 5
+   data: [0.088866838848423224, -0.24742250848813654, -0.0028648128998355381, -0.00066909365375191258, 0.057299947210392929]
+avg_reprojection_error: 3.5104962159307840e-01
